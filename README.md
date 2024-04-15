@@ -1,1 +1,1 @@
-# PRODIGY_ML_04
+This project aims to develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data. The model enables intuitive human-computer interaction and gesture-based control systems.The dataset consists of hand gesture images collected using the LEAP Motion Controller. It contains 10 different hand gestures, each performed by 10 different subjects.# PRODIGY_ML_04
